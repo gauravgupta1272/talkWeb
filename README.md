@@ -10,7 +10,7 @@ It has an Authentication System which uses **bcryptjs** for hashing, **JWT Token
 ## Technologies used
 **Frontend**   
 - ReactJS as the frontend framework  
-- Tailwind CSS for designing  
+- Tailwind CSS for styling 
 
 **Backend**  
 - NodeJS as the backend server
