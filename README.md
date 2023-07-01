@@ -9,20 +9,20 @@ It has an Authentication System which uses **bcryptjs** for hashing, **JWT Token
 
 ## Technologies used
 **Frontend**   
-- ReactJS as the frontend framework  
-- Tailwind CSS for styling 
+- [ReactJS](https://react.dev/) as the frontend framework  
+- [Tailwind](https://tailwindcss.com/) CSS for styling 
 
 **Backend**  
-- NodeJS as the backend server
-- ExpresJS as the backend framework
-- MongoDB as the Database
+- [NodeJS](https://nodejs.org/) as the backend server
+- [ExpresJS](https://expressjs.com/) as the backend framework
+- [MongoDB](https://www.mongodb.com/) as the Database
 
  **Major Dependencies**  
-- bcryptjs used for hashing and authenticating user
-- cookie-parser used for cookies storage to store authToken 
-- jsonwebtoken used for generating and verifying the token
-- mongoose as Object Data Modeling Library
-- ws as the WebSocket Library
+- [bcryptjs](https://www.npmjs.com/package/bcryptjs) used for hashing and authenticating user
+- [cookie-parser](https://www.npmjs.com/package/cookie-parser) used for cookies storage to store authToken 
+- [jsonwebtoken](https://jwt.io/) used for generating and verifying the token
+- [mongoose](https://mongoosejs.com/) as Object Data Modeling Library
+- [ws](https://www.npmjs.com/package/ws) as the WebSocket Library
 
   ## Screenshot
 
