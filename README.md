@@ -1,4 +1,5 @@
-# talkWeb
+# talkWeb 
+
 talkWeb is a Messaging Web Application that will connect you, your friends, and your family.   
 It allows users to send and receive messages in *Real-Time* which is implemented using **Web-Sockets**
 and also fetches the older messages from the **MongoDB** atlas NoSQL-based database.
@@ -6,7 +7,7 @@ When a new message comes in chat then there is autoScrolling in the chat Page.
 It has an Online Indicator that shows who all are Online on talkWeb.
 Not only text, but users can also send *Images, Videos, PDFs*, and other types of Files.
 It has an Authentication System which uses **bcryptjs** for hashing, **JWT Token**, and **cookie** to generate and store the *authToken*.  
-
+<sub> (Screenshots attached below)  </sub>     
 ## Technologies used
 **Frontend**   
 - [ReactJS](https://react.dev/) as the frontend framework  
